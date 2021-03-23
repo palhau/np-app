@@ -1,6 +1,9 @@
 {
   "name": "hello-next",
   "version": "1.0.0",
+  "engines": {
+    "node": "14.x"
+  },
   "description": "",
   "scripts": {
     "dev": "next",
